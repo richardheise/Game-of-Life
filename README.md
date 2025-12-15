@@ -35,7 +35,6 @@ Substitua `<linhas>` e `<colunas>` pelo tamanho do tabuleiro que você deseja.
 A pasta `inputs/` contém alguns padrões iniciais que podem ser usados para iniciar o jogo.
 
 *   `blinker.txt`: Um oscilador simples.
-*   `glider.txt`: Uma nave espacial que se move pelo tabuleiro.
 *   `gosper_gun.txt`: Uma "arma" que dispara gliders continuamente.
 
 Para usar um padrão, você pode redirecionar o conteúdo do arquivo para a entrada padrão do programa.
