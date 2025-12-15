@@ -1,0 +1,5 @@
+# Arquivos de objeto
+*.o
+
+# Executável
+game_of_life
