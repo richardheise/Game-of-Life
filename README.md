@@ -51,12 +51,6 @@ Para usar um padrão, você pode redirecionar o conteúdo do arquivo para a entr
 ./game_of_life 5 5 < inputs/blinker.txt
 ```
 
-#### Exemplo com o Glider
-
-```bash
-./game_of_life 10 10 < inputs/glider.txt
-```
-
 ## Limpando os Arquivos Compilados
 
 Para remover os arquivos gerados pela compilação, execute:
