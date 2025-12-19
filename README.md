@@ -48,7 +48,7 @@ Para usar um padrão, você pode redirecionar o conteúdo do arquivo para a entr
 #### Exemplo com o Blinker
 
 ```bash
-./game_of_life 5 5 < inputs/blinker.txt
+./game_of_life 20 20 < inputs/blinker.txt
 ```
 
 ## Limpando os Arquivos Compilados
@@ -58,7 +58,3 @@ Para remover os arquivos gerados pela compilação, execute:
 ```bash
 make clean
 ```
-
-## Autor
-
-Feito por Richard Heise. :)
